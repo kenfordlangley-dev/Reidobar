@@ -432,7 +432,7 @@ section {
 .contact-value {
     font-size: 1.3rem;
     font-weight: 600;
-    color: var(--text-light);
+    color: var(--primary-gold);
 }
 
 .contact-value a {
